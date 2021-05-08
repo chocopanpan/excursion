@@ -1,0 +1,40 @@
+body {
+    font-family: Verdana;
+    text-align: center;
+    background-color: black;
+  }
+  
+  header h3 {
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+  }
+  
+  header.guide {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+  }
+  
+  #download {
+    color: aquamarine;
+    font-size: 16px;
+  }
+  
+  a {
+    color: aquamarine;
+    text-align: center;
+  }
+  
+  img .phone {
+    text-align: center;
+  }
+  
+  p {
+    font-size: 21px;
+    color: gray;
+  }
+  
+  footer p {
+    text-align: right;
+  }
